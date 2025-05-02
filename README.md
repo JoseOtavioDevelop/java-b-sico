@@ -1,2 +1,2 @@
 # java-b-sico
-Repositoria para conhecimentos da liguagem JAVA.
+Repositorio para os meus conhecimentos da liguagem JAVA.
